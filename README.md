@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/cover.png" alt="cover" />
+</p>
 # 💫 About Me:
 👋 Hi, I’m Prasad Waster, a B.Tech CSE (AI & ML) student passionate about building smart, sustainable tech solutions.<br>💡 I love solving real-world problems using Python, Machine Learning, and Full-Stack Development (MERN).<br>🏆 Hackathon Winner | 🌱 Environmental Tech Advocate | 🔧 Automation & AI Enthusiast
 
