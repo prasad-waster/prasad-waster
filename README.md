@@ -1,9 +1,21 @@
 <p align="center">
   <img src="assets/cover.png" alt="cover" />
 </p>
-# 💫 About Me:
-👋 Hi, I’m Prasad Waster, a B.Tech CSE (AI & ML) student passionate about building smart, sustainable tech solutions.<br>💡 I love solving real-world problems using Python, Machine Learning, and Full-Stack Development (MERN).<br>🏆 Hackathon Winner | 🌱 Environmental Tech Advocate | 🔧 Automation & AI Enthusiast
 
+## 💫 About Me
+
+👋 **Hey there! I'm Prasad Waster**  
+🎓 **B.Tech CSE (AI & ML) Student** | 💡 **Tech Enthusiast** | 🌱 **Sustainability Advocate**
+
+🚀 I'm passionate about building **smart, impactful solutions** that make everyday life easier and greener.  
+🧠 I thrive on solving real-world problems with:  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 **Java**  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 **MERN Stack**  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 **Full-Stack Development (MERN)**  
+
+🏆 **Hackathon Winner** – Crafting innovative AI-driven solutions  
+🌍 **Environmental Tech Advocate** – Promoting sustainable and scalable green tech  
+🤖 **Automation Buff** – Streamlining processes through AI and smart systems
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/prasadwaster) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prasadwaster@gmail.com) 
