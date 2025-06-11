@@ -5,7 +5,7 @@
 ## 💫 About Me
 
 👋 **Hey there! I'm Prasad Waster**  
-🎓 **B.Tech CSE (AI & ML) Student** | 💡 **Tech Enthusiast** | 🌱 **Sustainability Advocate**
+🎓 **B.Tech CSE (AI & ML) Student** | 💡 **Tech Enthusiast** 
 
 🚀 I'm passionate about building **smart, impactful solutions** that make everyday life easier and greener.  
 🧠 I thrive on solving real-world problems with:  
